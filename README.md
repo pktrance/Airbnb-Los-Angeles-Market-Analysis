@@ -12,8 +12,8 @@ Perform exploratory data analysis and cleaning on 45,000+ LA Airbnb listings to 
 - Superhost status is not determined by tenure alone. The majority of superhosts joined 8–10 years ago, coinciding with Airbnb's rapid expansion period (2014–2015, $10B → $25.5B valuation). A secondary peak exists for hosts with under 3 years on the platform, suggesting quality over longevity drives superhost status.
 
 ## Recommendations
-- Hosts and market analysts should not assume higher-income neighborhoods produce more responsive or engaged hosts — engagement appears driven by individual host behavior - - rather than location income.
-Airbnb should prioritize onboarding quality incentives for newer hosts, as high performance within 3 years is achievable and already evident in the data.
+- Hosts and market analysts should not assume higher-income neighborhoods produce more responsive or engaged hosts; engagement appears driven by individual host behavior rather than location income.
+- Airbnb should prioritize onboarding quality incentives for newer hosts, as high performance within 3 years is achievable and already evident in the data.
 
 ## Visualizations
 
